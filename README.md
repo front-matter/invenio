@@ -3,7 +3,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/front-matter/invenio)](https://goreportcard.com/report/github.com/front-matter/invenio)
 
 # invenio
-Command-line tool to create and manage an InvenioRDM instance.
+
+Command-line tool to create and manage an InvenioRDM instance. The library is under active development and basic functionality is not yet working. Expect a first working release by March 2025.
 
 ## Installation
 
