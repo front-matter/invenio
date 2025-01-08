@@ -9,4 +9,4 @@ Invenio is a command-line tool to create and manage an [InvenioRDM](https://inve
 The library is under active development and basic functionality is not yet working. Expect a first working release by March 2025. Reasons to use Invenio over invenio-cli include:
 
 - **Performance**: Go is faster than Python.
-- **Static binaries**: Invenio is a single binary, no need to install Python, Python packages or any other dependencies.
+- **Simpler Installation**: Invenio is a single binary, no need to install Python, Python packages or any other dependencies.
